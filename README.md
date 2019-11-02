@@ -1,4 +1,4 @@
 # EiffelTower
 Turning on lights of the Eiffel Tower in a sequence
 
-![circuit](eiffel_tower.png)
+![circuit](eiffel_tower.mov)
